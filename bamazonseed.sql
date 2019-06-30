@@ -6,4 +6,5 @@ insert into products (product_name,department_name,price,stock_quantity) values(
 ("birthday supplies","Household supplies",22.20,20),("Band-aid","Healthcare",2.20,200),('Vaseline Petroleum Jelly Original', 'Health care', 1.00, 100),('Pure Protein Bars', 'Sports Nutrition', 1.00, 100),
 ('Batteries','Household Batteries', 1.20, 100);
 
-select * from products;
+select * from product;
+select item_id, product_name,department_name,price and stock_quantity from products;
