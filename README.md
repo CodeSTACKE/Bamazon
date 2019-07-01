@@ -17,9 +17,9 @@
     ? Enter the ID of the product would like to buy 1
     ? Enter the how many units of the product would like to buy 30
     
-#Code by Command
+# Code by Command
 
-#Require & Local Linked files
+# Require & Local Linked files
                  
     // packages included
     var mysql = require("mysql");
