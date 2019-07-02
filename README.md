@@ -2,6 +2,27 @@
     In this activity or assignment, i created  a Amazon-like storefront using  the MySQL. The app will take in orders 
     from customers and deplete stock from the store's inventory.
     
+# Description
+In this assignment students were tasked to create an app that:
+
+    1.Presents a list of products to users.
+    2.Enables users to select a product and a quantity.
+    3.Updates the SQL database with the change in the inventory.
+    
+# Review of the App
+    Set up the files and database on your local machine
+    Git clone this repository -> https://github.com/jyotigithub1/Bamazon
+    Use the file "bamazonseed.sql" to create the database,table,populate the data.
+    Modify the "bamazonCustomer.js file line 20 with the password of your localhost
+
+# Set up the node modules and run the JavaScript file.
+    Install inquirer -> https://www.npmjs.com/package/inquirer
+    Install mysql -> https://www.npmjs.com/package/mysql
+    Install columnify -> https://www.npmjs.com/package/columnify
+    install chalk-> https://www.npmjs.com/package/chalk
+    install dotenv->https://www.npmjs.com/package/dotenv
+    At the command line enter -> node bamazonCustomer.js
+    
 # Expected Outcomes
     $ node bamazonCustomer.js
     Here are all the Products List...
@@ -17,7 +38,8 @@
     ? Enter the ID of the product would like to buy 1
     ? Enter the how many units of the product would like to buy 30
     
-# Code by Command
+# Technologies used
+1.node/mysql/Javascript/npm
 
 # Require & Local Linked files
                  
