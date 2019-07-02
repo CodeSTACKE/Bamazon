@@ -30,6 +30,7 @@
 
 
 # Screenshots of the Bamazon App
+welcome screen, purchase order,Again Purchase, Validation on id, Validation on Unit, Quit option
 ------------------------------------------------------------------------------------------------------------------------------------   
 ![welcome_screen](https://user-images.githubusercontent.com/48188772/60480034-a370bc00-9c4d-11e9-9732-9b5b39c8f058.png "welcome screen")
 
