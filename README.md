@@ -56,6 +56,8 @@ welcome screen, purchase order,Again Purchase, Validation on id, Validation on U
 ------------------------------------------------------------------------------------------------------------------------------------   
 ![welcome_screen](https://user-images.githubusercontent.com/48188772/60480034-a370bc00-9c4d-11e9-9732-9b5b39c8f058.png "welcome screen")
 
+![insufficient_quantity](https://user-images.githubusercontent.com/48188772/60482900-edab6a80-9c58-11e9-9a7f-1b52aefa1d37.png "Insufficent Quanity")
+
 ![purchase_order1](https://user-images.githubusercontent.com/48188772/60480076-d3b85a80-9c4d-11e9-9850-ba4f9f2527e9.png "purchase_order")
 
 ![again_purchase](https://user-images.githubusercontent.com/48188772/60480096-e16de000-9c4d-11e9-9e9c-1f9d609079cc.png "Again_purchase_order")
