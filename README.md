@@ -66,3 +66,5 @@ welcome screen, purchase order,Again Purchase, Validation on id, Validation on U
 
 ![quit_option](https://user-images.githubusercontent.com/48188772/60480136-07938000-9c4e-11e9-8ccf-16eab2295938.png "Quit option")
 
+Video Demonstration of Bamazon app, click on the link to check.
+https://drive.google.com/file/d/1e-EdjDvhanwqDqVc5RKFpPF-AiRM1-LF/view
