@@ -149,7 +149,7 @@ function tableupdate(updatedstock, item_id, userstock) {
                         log(chalk.blue("You have Sucessfully purchased " + sel_res[0].product_name + " " + "of" + " " + userstock + " " + "units"));
                         var totalprice = sel_res[0].price * userstock;
                         log(chalk.red("-------------------------------------------------------------"));
-                        log(chalk.blue("Your Total Cost of Your  Purchase is  ::" + "$" + totalprice));
+                        log(chalk.blue("Your Total Cost of Your  Purchase is :" + "$" + parseFloat(totalprice).toFixed(2)));
                         log(chalk.red("-------------------------------------------------------------"));
                         //    connection.end();
                         confirm();
