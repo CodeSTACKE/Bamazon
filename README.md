@@ -10,18 +10,18 @@ In this assignment students were tasked to create an app that:
     3.Updates the SQL database with the change in the inventory.
     
 ##### Review of the App
-    Set up the files and database on your local machine
-    Git clone this repository -> https://github.com/jyotigithub1/Bamazon
-    Use the file "bamazonseed.sql" to create the database,table,populate the data.
-    Modify the "bamazonCustomer.js file line 20 with the password of your localhost
+    * Set up the files and database on your local machine
+    * Git clone this repository -> https://github.com/jyotigithub1/Bamazon
+    * Use the file "bamazonseed.sql" to create the database,table,populate the data.
+    * Modify the "bamazonCustomer.js file line 20 with the password of your localhost
 
 ##### Set up the node modules and run the JavaScript file.
-    Install inquirer -> https://www.npmjs.com/package/inquirer
-    Install mysql -> https://www.npmjs.com/package/mysql
-    Install columnify -> https://www.npmjs.com/package/columnify
-    install chalk-> https://www.npmjs.com/package/chalk
-    install dotenv->https://www.npmjs.com/package/dotenv
-    At the command line enter -> node bamazonCustomer.js
+   * Install inquirer -> https://www.npmjs.com/package/inquirer
+   * Install mysql -> https://www.npmjs.com/package/mysql
+   * Install columnify -> https://www.npmjs.com/package/columnify
+   * Install chalk-> https://www.npmjs.com/package/chalk
+   * Install dotenv->https://www.npmjs.com/package/dotenv
+   * At the command line enter -> node bamazonCustomer.js
     
 ##### Expected Outcomes
     $ node bamazonCustomer.js
@@ -52,7 +52,7 @@ In this assignment students were tasked to create an app that:
 
 
 ##### Screenshots of the Bamazon App
-welcome screen, purchase order,Again Purchase, Validation on id, Validation on Unit, Quit option
+######welcome screen, purchase order,Again Purchase, Validation on id, Validation on Unit, Quit option
 ------------------------------------------------------------------------------------------------------------------------------------   
 ![welcome_screen](https://user-images.githubusercontent.com/48188772/60480034-a370bc00-9c4d-11e9-9732-9b5b39c8f058.png "welcome screen")
 
@@ -68,5 +68,5 @@ welcome screen, purchase order,Again Purchase, Validation on id, Validation on U
 
 ![quit_option](https://user-images.githubusercontent.com/48188772/60480136-07938000-9c4e-11e9-8ccf-16eab2295938.png "Quit option")
 
-Video Demonstration of Bamazon app, click on the link to check.
+######Video Demonstration of Bamazon app, click on the link to check.
 https://drive.google.com/file/d/1e-EdjDvhanwqDqVc5RKFpPF-AiRM1-LF/view
