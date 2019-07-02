@@ -52,7 +52,7 @@ In this assignment students were tasked to create an app that:
 
 
 ##### Screenshots of the Bamazon App
-######welcome screen, purchase order,Again Purchase, Validation on id, Validation on Unit, Quit option
+##### welcome screen, purchase order,Again Purchase, Validation on id, Validation on Unit, Quit option
 ------------------------------------------------------------------------------------------------------------------------------------   
 ![welcome_screen](https://user-images.githubusercontent.com/48188772/60480034-a370bc00-9c4d-11e9-9732-9b5b39c8f058.png "welcome screen")
 
@@ -68,5 +68,5 @@ In this assignment students were tasked to create an app that:
 
 ![quit_option](https://user-images.githubusercontent.com/48188772/60480136-07938000-9c4e-11e9-8ccf-16eab2295938.png "Quit option")
 
-######Video Demonstration of Bamazon app, click on the link to check.
+###### Video Demonstration of Bamazon app, click on the link to check.
 https://drive.google.com/file/d/1e-EdjDvhanwqDqVc5RKFpPF-AiRM1-LF/view
