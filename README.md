@@ -31,21 +31,17 @@
 
 # Screenshots of the Bamazon App
 ------------------------------------------------------------------------------------------------------------------------------------
-Welcome Screen
------------------
-![welcome_screen](https://user-images.githubusercontent.com/48188772/60479093-327bd500-9c4a-11e9-9bf4-5fd35c5fca8a.png)
-Purchase order
------------------
-![purchase_order1](https://user-images.githubusercontent.com/48188772/60479134-593a0b80-9c4a-11e9-80d5-fb1d32c5997d.png)
+# Welcome Screen
+<img src="(https://user-images.githubusercontent.com/48188772/60479093-327bd500-9c4a-11e9-9bf4-5fd35c5fca8a.png)"/>
+#  Purchase order
+ <img src="https://user-images.githubusercontent.com/48188772/60479134-593a0b80-9c4a-11e9-80d5-fb1d32c5997d.png" height:20px/>
 Again Purchase
------------------
-![again_purchase](https://user-images.githubusercontent.com/48188772/60479173-7373e980-9c4a-11e9-8f34-b455ee44f322.png)
-Validation on ID(Id should be numbers and greater then 0 and less then 6)
----------------
-![validation_on_id](https://user-images.githubusercontent.com/48188772/60479204-8c7c9a80-9c4a-11e9-99f1-333c86cf44af.png)
-Validation on Units(It should take numbers and not greater then 0)
--------------------------------------------------------------------
-![validation_2](https://user-images.githubusercontent.com/48188772/60479262-c6e63780-9c4a-11e9-8262-315e9fc30e93.png)
-Quit option screen
--------------------
-![quit_option](https://user-images.githubusercontent.com/48188772/60479285-dd8c8e80-9c4a-11e9-857f-bb7f6e76a202.png)
+https://user-images.githubusercontent.com/48188772/60479173-7373e980-9c4a-11e9-8f34-b455ee44f322.png
+# Validation on ID(Id should be numbers and greater then 0 and less then 6)
+https://user-images.githubusercontent.com/48188772/60479204-8c7c9a80-9c4a-11e9-99f1-333c86cf44af.png
+
+# Validation on Units(It should take numbers and not greater then 0)
+https://user-images.githubusercontent.com/48188772/60479262-c6e63780-9c4a-11e9-8262-315e9fc30e93.png
+
+# Quit option screen
+https://user-images.githubusercontent.com/48188772/60479285-dd8c8e80-9c4a-11e9-857f-bb7f6e76a202.png
