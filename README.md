@@ -44,4 +44,4 @@ https://user-images.githubusercontent.com/48188772/60479204-8c7c9a80-9c4a-11e9-9
 https://user-images.githubusercontent.com/48188772/60479262-c6e63780-9c4a-11e9-8262-315e9fc30e93.png
 
 # Quit option screen
-https://user-images.githubusercontent.com/48188772/60479285-dd8c8e80-9c4a-11e9-857f-bb7f6e76a202.png
+(https://user-images.githubusercontent.com/48188772/60479285-dd8c8e80-9c4a-11e9-857f-bb7f6e76a202.png)
