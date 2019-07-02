@@ -30,9 +30,8 @@
 
 
 # Screenshots of the Bamazon App
-------------------------------------------------------------------------------------------------------------------------------------
-welcome screen
-![welcome_screen](https://user-images.githubusercontent.com/48188772/60480034-a370bc00-9c4d-11e9-9732-9b5b39c8f058.png)
+------------------------------------------------------------------------------------------------------------------------------------   
+![welcome_screen](https://user-images.githubusercontent.com/48188772/60480034-a370bc00-9c4d-11e9-9732-9b5b39c8f058.png "welcome screen")
 purchase order
 ![purchase_order1](https://user-images.githubusercontent.com/48188772/60480076-d3b85a80-9c4d-11e9-9850-ba4f9f2527e9.png)
 Again_purchase_order
