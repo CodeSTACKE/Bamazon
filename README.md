@@ -33,21 +33,13 @@
 ------------------------------------------------------------------------------------------------------------------------------------   
 ![welcome_screen](https://user-images.githubusercontent.com/48188772/60480034-a370bc00-9c4d-11e9-9732-9b5b39c8f058.png "welcome screen")
 purchase order
-![purchase_order1](https://user-images.githubusercontent.com/48188772/60480076-d3b85a80-9c4d-11e9-9850-ba4f9f2527e9.png)
-Again_purchase_order
-![again_purchase](https://user-images.githubusercontent.com/48188772/60480096-e16de000-9c4d-11e9-9e9c-1f9d609079cc.png)
-Validation on id
-![validation_on_id](https://user-images.githubusercontent.com/48188772/60480107-ecc10b80-9c4d-11e9-8233-3d724e0d7c4b.png)
-Validation on units
-![validation_2](https://user-images.githubusercontent.com/48188772/60480125-f9ddfa80-9c4d-11e9-81cd-b358b1847891.png)
-Quit option
-![quit_option](https://user-images.githubusercontent.com/48188772/60480136-07938000-9c4e-11e9-8ccf-16eab2295938.png)
+![purchase_order1](https://user-images.githubusercontent.com/48188772/60480076-d3b85a80-9c4d-11e9-9850-ba4f9f2527e9.png "purchase_order")
 
-# Validation on ID(Id should be numbers and greater then 0 and less then 6)
+![again_purchase](https://user-images.githubusercontent.com/48188772/60480096-e16de000-9c4d-11e9-9e9c-1f9d609079cc.png "Again_purchase_order")
 
+![validation_on_id](https://user-images.githubusercontent.com/48188772/60480107-ecc10b80-9c4d-11e9-8233-3d724e0d7c4b.png "Validation on id")
 
-# Validation on Units(It should take numbers and not greater then 0)
+![validation_2](https://user-images.githubusercontent.com/48188772/60480125-f9ddfa80-9c4d-11e9-81cd-b358b1847891.png " Validation on units")
 
-
-# Quit option screen
+![quit_option](https://user-images.githubusercontent.com/48188772/60480136-07938000-9c4e-11e9-8ccf-16eab2295938.png "Quit option")
 
