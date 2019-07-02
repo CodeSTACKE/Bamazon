@@ -31,17 +31,18 @@
 
 # Screenshots of the Bamazon App
 ------------------------------------------------------------------------------------------------------------------------------------
-# Welcome Screen
-<img src="(https://user-images.githubusercontent.com/48188772/60479093-327bd500-9c4a-11e9-9bf4-5fd35c5fca8a.png)"/>
-#  Purchase order
- <img src="https://user-images.githubusercontent.com/48188772/60479134-593a0b80-9c4a-11e9-80d5-fb1d32c5997d.png" height:20px/>
-Again Purchase
-https://user-images.githubusercontent.com/48188772/60479173-7373e980-9c4a-11e9-8f34-b455ee44f322.png
+![welcome_screen](https://user-images.githubusercontent.com/48188772/60480034-a370bc00-9c4d-11e9-9732-9b5b39c8f058.png)
+![purchase_order1](https://user-images.githubusercontent.com/48188772/60480076-d3b85a80-9c4d-11e9-9850-ba4f9f2527e9.png)
+![again_purchase](https://user-images.githubusercontent.com/48188772/60480096-e16de000-9c4d-11e9-9e9c-1f9d609079cc.png)
+![validation_on_id](https://user-images.githubusercontent.com/48188772/60480107-ecc10b80-9c4d-11e9-8233-3d724e0d7c4b.png)
+![validation_2](https://user-images.githubusercontent.com/48188772/60480125-f9ddfa80-9c4d-11e9-81cd-b358b1847891.png)
+![quit_option](https://user-images.githubusercontent.com/48188772/60480136-07938000-9c4e-11e9-8ccf-16eab2295938.png)
+
 # Validation on ID(Id should be numbers and greater then 0 and less then 6)
-https://user-images.githubusercontent.com/48188772/60479204-8c7c9a80-9c4a-11e9-99f1-333c86cf44af.png
+
 
 # Validation on Units(It should take numbers and not greater then 0)
-https://user-images.githubusercontent.com/48188772/60479262-c6e63780-9c4a-11e9-8262-315e9fc30e93.png
+
 
 # Quit option screen
-(https://user-images.githubusercontent.com/48188772/60479285-dd8c8e80-9c4a-11e9-857f-bb7f6e76a202.png)
+
